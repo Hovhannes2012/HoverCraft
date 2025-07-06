@@ -1,0 +1,24 @@
+{
+    "phoneplatform" : [
+        {
+            "img":"https://m.media-amazon.com/images/M/MV5BMTdkMGYwYjctNDdmYy00YmQzLTg4YmMtMGY0ZGQxZDM2ZWFiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "tittle":"Honor of Kings"
+        },
+        {
+            "img":"https://web-assets.wearebond.com/WZN_KEY_Vert_9by16_3375x6000_WeaponMontage_244_F1.2-1280x2276.jpg",
+            "tittle":"Call of Duty: Warzone Mobile"
+        },
+        {
+            "img":"https://prodimage.images-bn.com/pimages/9780063303690_p0_v2_s600x595.jpg",
+            "tittle":"Genshin Impact"
+        },
+        {
+            "img":"https://i.pinimg.com/736x/12/66/95/1266955ce6253495c7dab2daaa037308.jpg",
+            "tittle":"Brawl Stars"
+        },
+        {
+            "img":"https://m.media-amazon.com/images/I/91NAvaOF3xL.jpg",
+            "tittle":"Roblox"
+        }
+    ]
+}

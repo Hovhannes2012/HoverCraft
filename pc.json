@@ -1,0 +1,24 @@
+{
+    "pcgames":[
+        {
+            "img":"https://blackheartprints.com/cdn/shop/files/Helldivers2GamePosterWeb_1200x1200.jpg?v=1708255608",
+            "tittle":"Helldivers 2"
+        },
+        {
+            "img":"https://m.media-amazon.com/images/M/MV5BMDdmNDZkOGUtMTNmZi00NTA4LWI3ZDktZDlhZjcxM2YyOGE3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "tittle":"Palworld"
+        },
+        {
+            "img":"https://storage.googleapis.com/pod_public/1300/262379.jpg",
+            "tittle":"Elden Ring: Shadow of the Erdtree"
+        },
+        {
+            "img":"https://m.media-amazon.com/images/M/MV5BMzc4NDc2OWItMTJmNy00MWQxLWExMzktNGIwYjA3MGVlZTE3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "tittle":"Call of Duty: Modern Warfare III "
+        },
+        {
+            "img":"https://m.media-amazon.com/images/M/MV5BYjdlZjZlMTQtMTQwNS00MTBjLWE3YjQtM2Y3NjQ5ZWEzMzRmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "tittle":"Counter-Strike 2"
+        }
+    ]
+}

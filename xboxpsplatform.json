@@ -1,0 +1,24 @@
+{
+    "playstation" : [
+        {
+            "img":"https://m.media-amazon.com/images/M/MV5BZmUwYTNjZTAtOTYxYS00NmM3LTkwODEtNWM2NDNlOGZlYzMyXkEyXkFqcGc@._V1_.jpg",
+            "tittle":"Marvel’s Spider-Man 2"
+        },
+        {
+            "img":"https://www.yourdecoration.com/cdn/shop/files/Poster-Starfield-Journey-Through-Space-61x91-5cm-Abystyle-GBYDCO516_64cc8e6d-1fc4-40d6-aed9-8acf6e5e12f9.jpg?v=1721810697",
+            "tittle":"Starfield"
+        },
+        {
+            "img":"https://i.etsystatic.com/37268737/r/il/35be3e/5852102385/il_570xN.5852102385_g8pm.jpg",
+            "tittle":"Final Fantasy VII Rebirth"
+        },
+        {
+            "img":"https://m.media-amazon.com/images/M/MV5BMjNiMWJjYzgtZWRjMy00MWZlLWE2ZjEtMTRkYWYxZTdjMDEwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "tittle":"FIFA 25 / EA Sports FC 25"
+        },
+        {
+            "img":"https://m.media-amazon.com/images/M/MV5BMzc4NDc2OWItMTJmNy00MWQxLWExMzktNGIwYjA3MGVlZTE3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "tittle":"Call of Duty: Modern Warfare III"
+        }
+    ]
+}
