@@ -273,6 +273,10 @@ header {
             flex-wrap: wrap;
         }
 
+        @media(max-width:470px){
+            padding: 15px;
+        }
+
         & img {
             width: 400px;
             height: 600px;
