@@ -260,6 +260,11 @@ header .search button:hover {
     flex-wrap: wrap;
   }
 }
+@media (max-width: 470px) {
+  .games .game {
+    padding: 15px;
+  }
+}
 .games .game img {
   width: 400px;
   height: 600px;
